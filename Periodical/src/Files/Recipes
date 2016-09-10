@@ -1,0 +1,10 @@
+Begino Begino:Forme:1
+Forme:Begino Begino:1
+Forme Forme:Choleo:1
+Choleo:Forme Forme:1
+Choleo Forme Begino:Materas:1
+Materas:Choleo Forme Begino:1
+Materas Materas Materas Materas:Grow:1:1
+Materas Materas:Reydas:2
+Reydas:Materas Materas:2
+Reydas Reydas Reydas Reydas:Grow:2:2
